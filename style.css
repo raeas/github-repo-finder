@@ -16,6 +16,15 @@ body {
     align-items: center;
   }
 
+
+.results-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  padding: 0 100px;
+  margin: 20px;
+}
+
 #js-form{
     display: flex;
     flex-direction: column;
