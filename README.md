@@ -14,3 +14,8 @@ A Thinkful Assignment
   * You must display the repo name and link to the repo URL. 
   * The user must be able to make multiple searches and see only the results for the current search.
 
+### Tech Stack
+* HTML
+* CSS
+* JavaScript
+* jQuery
